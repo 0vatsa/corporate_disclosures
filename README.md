@@ -1,6 +1,6 @@
 ### What is this?
 ---
-The following data dump contains raw PDF quarterly presentations and conference call transcripts of almost all companies listed on the NSE.  
+The following data dump contains raw PDF quarterly presentations and conference call transcripts of almost all companies listed on the NSE from Jan-2011 to Dec-2023.  
 The dataset only contains quarterly investor presentations and conference call transcripts, if you also want the quarterly results and annual reports, ping me [here](mailto:srivatsarao@pm.me), I did not include them due to their size.<br><br>  
 This was the data we used for writing a research paper wherein we developed a few models to evaluate the corporate disclosures. Similar to [1](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4098951 "1"), [2](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4490834 "2"), [3](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4425527 "3"), [4](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311 "4").  
 The hardest part was getting this data because there are really no price-friendly commercial vendors with an API access. 
